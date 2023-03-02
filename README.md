@@ -11,4 +11,6 @@ An entity-relationship model was constructed as a result of this work, which pro
 
 For demonstration purposes, the database has been populated with a small sample set of example data.
 
+## Entity Relationship Diagram
+
 ![easyjet-database-screenshot](https://user-images.githubusercontent.com/57259205/222500876-87329d36-fa38-4886-8244-2901003bcede.png)
