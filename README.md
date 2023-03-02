@@ -11,5 +11,4 @@ An entity-relationship model was constructed as a result of this work, which pro
 
 For demonstration purposes, the database has been populated with a small sample set of example data.
 
-
-[Database Project - Group.pdf](https://github.com/finnian-smith/flight-booking-database/files/10873902/Database.Project.-.Group.pdf)
+![easyjet-database-screenshot](https://user-images.githubusercontent.com/57259205/222500876-87329d36-fa38-4886-8244-2901003bcede.png)
