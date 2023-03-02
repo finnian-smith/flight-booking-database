@@ -10,3 +10,6 @@ The specific scope of this project included only that of which easyJet has contr
 An entity-relationship model was constructed as a result of this work, which provided the basis for the implementation of the database through MySQL.
 
 For demonstration purposes, the database has been populated with a small sample set of example data.
+
+
+[Database Project - Group.pdf](https://github.com/finnian-smith/flight-booking-database/files/10873902/Database.Project.-.Group.pdf)
